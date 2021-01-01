@@ -4,6 +4,8 @@
 
     Beautiful Soup
 
+    参考文档：https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/    
+
 ## 目的
 
     1.删除不需要的标签
