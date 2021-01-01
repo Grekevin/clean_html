@@ -4,7 +4,7 @@
 
     Beautiful Soup
 
-    参考文档：https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/    
+    参考文档：<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/" target="_blank">https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/</a>    
 
 ## 目的
 
